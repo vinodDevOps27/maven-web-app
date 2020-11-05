@@ -99,7 +99,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Kush Technilogies Releases Nexus Repository</name>
+	      <name>Kush Technologies Releases Nexus Repository</name>
 	      <url>http://13.234.186.11:8888/repository/kush-technologies-release/</url>
 	    </repository>
 	    
